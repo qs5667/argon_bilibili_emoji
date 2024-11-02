@@ -36,7 +36,7 @@ A: 该插件专为Argon主题设计，不与其他主题兼容。
 A: 您可以通过编辑插件代码或使用WordPress的自定义后台来添加自定义表情。
 
 **Q: 插件是否支持多语言？**
-A: 插件本身支持英文，但可以通过WordPress的语言文件进行本地化。
+A: 插件本身只支持中文，但可以通过WordPress的语言文件进行本地化。
 
 ## 反馈与支持
 如果您在使用插件时遇到任何问题，或者有任何改进建议，欢迎在[GitHub仓库](https://github.com/qs5667/argon_bilibili_emoji)中提交issue，或联系开发者。
@@ -46,4 +46,4 @@ A: 插件本身支持英文，但可以通过WordPress的语言文件进行本�
 
 ---
 
-**享受使用Argon Emoji Bilibili插件，让您的网站更加生动有趣！**
+**享受使用Argon Emoji Bilibili插件，让您的网站的表情更加生动有趣！**
