@@ -7,7 +7,7 @@
  * Description: Argon 主题的bilibili表情包
  * Version:     1.0.0
  * Author:      Moxiaoban
- * Author URI:  https://www.mebk.top/
+ * Author URI:  https://www.memxb.top/
  * License:     GNU General Public License v3.0
  */
 
