@@ -48,7 +48,7 @@ A: 插件目前是新项目，更新频率较高（每月至少两次）。如�
 如果您在使用插件时遇到任何问题或有任何改进建议，欢迎在[GitHub 仓库](https://github.com/qs5667/argon_bilibili_emoji)中提交 issue，或联系开发者。
 
 ## 关于这个插件
-该插件由 [Moxiaoban](https://www.mebk.top/) 开发，致力于为 WordPress 社区提供高质量的插件和主题。
+该插件由 [Moxiaoban](https://www.memxb.top/) 开发，致力于为 WordPress 社区提供高质量的插件和主题。
 
 ## 表情图标来源
 【【B站表情】小黄脸 22-08-10 (194个)-哔哩哔哩】 https://b23.tv/ZTSCjWI
